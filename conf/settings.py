@@ -9,8 +9,7 @@ import logging
 
 #  全局常量配置
 HTTP_TIMEOUT = 3  # HTTP超时
-LOG_HOME = "/data/logs"  # 日志主目录
-GFS_HOME = "/data/image"  # GFS主目录
+LOG_HOME = "/tmp"  # 日志主目录
 TMP_HOME = "/tmp"  # 临时路径
 
 # 测试、灰度、线上
